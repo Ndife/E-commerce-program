@@ -47,3 +47,4 @@ return check;
 }
 
 console.log(buyProduct(myStore, orders));
+//just added comment
